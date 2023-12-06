@@ -1,0 +1,7 @@
+C:\Projects\Mouse\MouseService\MouseService\bin\Debug\MouseService.exe.config
+C:\Projects\Mouse\MouseService\MouseService\bin\Debug\MouseService.exe
+C:\Projects\Mouse\MouseService\MouseService\bin\Debug\MouseService.pdb
+C:\Projects\Mouse\MouseService\MouseService\obj\Debug\MouseService.csproj.AssemblyReference.cache
+C:\Projects\Mouse\MouseService\MouseService\obj\Debug\MouseService.csproj.CoreCompileInputs.cache
+C:\Projects\Mouse\MouseService\MouseService\obj\Debug\MouseService.exe
+C:\Projects\Mouse\MouseService\MouseService\obj\Debug\MouseService.pdb
